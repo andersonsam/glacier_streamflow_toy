@@ -1,0 +1,10 @@
+name: glacier_streamflow_toy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - jupyter
+  - matplotlib
+  - numpy
+prefix: /Users/samanderson/anaconda3/envs/glacier_streamflow_toy
